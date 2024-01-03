@@ -1,2 +1,2 @@
 # TensorCTF
-Artificial Intelligence that helps in hacking
+Artificial Intelligence that helps in tracing 
