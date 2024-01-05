@@ -1,2 +1,2 @@
 # TensorCTF
-Artificial Intelligence that helps in tracing 
+Artificial Intelligence that helps in tracking and navigating...
